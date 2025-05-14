@@ -171,26 +171,20 @@ function Certificates() {
       company: 'React.js Development',
       title: 'TECH MENTORS',
       logo: TechMentors,
-      start: '2024',
+      start: '2018',
     },
     {
       company: 'Software Testing',
       title: 'EDUONIX',
       logo: Eduonix,
-      start: '2022',
+      start: '2020',
     },
     {
       company: 'NodeJS Development',
       title: 'KPITB',
       logo: Kpitb,
-      start: '2021',
-    },
-    {
-      company: 'WordPress Development',
-      title: 'KPYOUTH',
-      logo: Kpyouth,
-      start: '2018',
-    },
+      start: '2017',
+    }
   ]
 
   return (
@@ -228,8 +222,8 @@ function Resume() {
       company: 'Amazon',
       title: 'Software Development Engineer ',
       logo: Amazon,
-      start: '2012',
-      end: '2018',
+      start: '2014',
+      end: '2016',
     },
     {
       company: 'DC TV',
