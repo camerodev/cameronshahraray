@@ -34,7 +34,7 @@ export default function Speaking() {
     >
       <div className="mt-6 flex gap-6">
         <SocialLink
-          href="https://www.linkedin.com/in/kamran-shahraray-22029798/"
+          href="https://www.linkedin.com/in/cameron-sharpe-944700365"
           aria-label="Follow on LinkedIn"
           icon={LinkedInIcon}
         />
