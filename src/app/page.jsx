@@ -277,7 +277,7 @@ export default async function Home() {
           </p>
           <div className="mt-6 flex gap-6">
             <SocialLink
-              href="https://www.linkedin.com/in/cameron-sharpe-944700365"
+              href="https://www.linkedin.com/in/cameron-shahraray-741355367"
               aria-label="Follow on LinkedIn"
               icon={LinkedInIcon}
             />
