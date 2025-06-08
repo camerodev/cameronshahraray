@@ -80,7 +80,7 @@ export default function About() {
         <div className="lg:pl-20">
           <ul role="list">
             <SocialLink
-              href="https://www.linkedin.com/in/cameron-shahraray-741355367"
+              href="https://www.linkedin.com/in/cameronmshah"
               icon={LinkedInIcon}
             >
               Follow on LinkedIn
